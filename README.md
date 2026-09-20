@@ -45,4 +45,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/MySQL/Easy/0175-combine-two-tables/) | Easy |
+| [0181-employees-earning-more-than-their-managers](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/MySQL/Easy/0181-employees-earning-more-than-their-managers/) | Easy |
 <!---LeetCode Topics End-->
