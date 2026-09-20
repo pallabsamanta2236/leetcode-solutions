@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0485-max-consecutive-ones](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0485-max-consecutive-ones/) | Easy |
+| [1470-shuffle-the-array](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/1929-concatenation-of-array/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 ## Simulation
