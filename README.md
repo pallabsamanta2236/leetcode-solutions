@@ -41,4 +41,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Hard/0010-regular-expression-matching/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/MySQL/Easy/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
