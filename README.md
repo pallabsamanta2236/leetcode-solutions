@@ -18,4 +18,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
