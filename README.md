@@ -47,6 +47,7 @@
 | [0175-combine-two-tables](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/MySQL/Easy/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/MySQL/Easy/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0584-find-customer-referee](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/MySQL/Easy/0584-find-customer-referee/) | Easy |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/MySQL/Easy/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0620-not-boring-movies](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/MySQL/Easy/0620-not-boring-movies/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/MySQL/Easy/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
