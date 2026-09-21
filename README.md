@@ -50,5 +50,6 @@
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/MySQL/Easy/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/MySQL/Easy/0596-classes-with-at-least-5-students/) | Easy |
 | [0620-not-boring-movies](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/MySQL/Easy/0620-not-boring-movies/) | Easy |
+| [1193-monthly-transactions-i](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/MySQL/Medium/1193-monthly-transactions-i/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/MySQL/Easy/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
