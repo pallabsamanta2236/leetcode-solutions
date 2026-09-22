@@ -36,10 +36,12 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Hard/0010-regular-expression-matching/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Hard/0010-regular-expression-matching/) | Hard |
 ## Database
 | Problem Name | Difficulty |
@@ -53,4 +55,12 @@
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/MySQL/Easy/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/MySQL/Medium/1193-monthly-transactions-i/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/MySQL/Easy/1978-employees-whose-manager-left-the-company/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0005-longest-palindromic-substring/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
