@@ -57,6 +57,7 @@
 | [0178-rank-scores](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/MySQL/Medium/0178-rank-scores/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/MySQL/Easy/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0184-department-highest-salary](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/MySQL/Medium/0184-department-highest-salary/) | Medium |
+| [0185-department-top-three-salaries](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/MySQL/Hard/0185-department-top-three-salaries/) | Hard |
 | [0584-find-customer-referee](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/MySQL/Easy/0584-find-customer-referee/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/MySQL/Easy/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/MySQL/Easy/0596-classes-with-at-least-5-students/) | Easy |
