@@ -64,6 +64,7 @@
 | [0620-not-boring-movies](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/MySQL/Easy/0620-not-boring-movies/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/MySQL/Easy/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/MySQL/Medium/1193-monthly-transactions-i/) | Medium |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/MySQL/Medium/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/MySQL/Easy/1978-employees-whose-manager-left-the-company/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
