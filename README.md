@@ -54,6 +54,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/MySQL/Easy/0175-combine-two-tables/) | Easy |
+| [0178-rank-scores](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/MySQL/Medium/0178-rank-scores/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/MySQL/Easy/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0584-find-customer-referee](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/MySQL/Easy/0584-find-customer-referee/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/MySQL/Easy/0586-customer-placing-the-largest-number-of-orders/) | Easy |
