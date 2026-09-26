@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0015-3sum/) | Medium |
 | [0066-plus-one](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0066-plus-one/) | Easy |
+| [0179-largest-number](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0179-largest-number/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0485-max-consecutive-ones/) | Easy |
 | [1470-shuffle-the-array](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/1929-concatenation-of-array/) | Easy |
@@ -46,6 +47,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Hard/0010-regular-expression-matching/) | Hard |
+| [0179-largest-number](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0179-largest-number/) | Medium |
 | [0389-find-the-difference](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0389-find-the-difference/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -89,9 +91,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0015-3sum/) | Medium |
+| [0179-largest-number](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0179-largest-number/) | Medium |
 | [0389-find-the-difference](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0389-find-the-difference/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0389-find-the-difference/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0179-largest-number](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0179-largest-number/) | Medium |
 <!---LeetCode Topics End-->
