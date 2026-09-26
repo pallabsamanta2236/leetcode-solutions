@@ -16,6 +16,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0412-fizz-buzz/) | Easy |
 | [1929-concatenation-of-array](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/1929-concatenation-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -39,6 +40,7 @@
 | [0009-palindrome-number](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0066-plus-one/) | Easy |
 | [0202-happy-number](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0202-happy-number/) | Easy |
+| [0412-fizz-buzz](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0412-fizz-buzz/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +53,7 @@
 | [0010-regular-expression-matching](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Hard/0010-regular-expression-matching/) | Hard |
 | [0179-largest-number](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0179-largest-number/) | Medium |
 | [0389-find-the-difference](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0389-find-the-difference/) | Easy |
+| [0412-fizz-buzz](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0412-fizz-buzz/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
