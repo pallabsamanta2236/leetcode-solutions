@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0066-plus-one/) | Easy |
 | [0179-largest-number](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0179-largest-number/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0485-max-consecutive-ones/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [1470-shuffle-the-array](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/1929-concatenation-of-array/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
@@ -90,6 +91,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+| [0540-single-element-in-a-sorted-array](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
