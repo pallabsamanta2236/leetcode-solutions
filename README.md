@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0015-3sum/) | Medium |
 | [0066-plus-one](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0066-plus-one/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [0137-single-number-ii](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0137-single-number-ii/) | Medium |
 | [0179-largest-number](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0179-largest-number/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0540-single-element-in-a-sorted-array/) | Medium |
@@ -107,6 +108,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0137-single-number-ii](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0137-single-number-ii/) | Medium |
 | [0389-find-the-difference](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0389-find-the-difference/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
