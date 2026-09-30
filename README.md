@@ -11,6 +11,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0137-single-number-ii/) | Medium |
+| [0164-maximum-gap](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0164-maximum-gap/) | Medium |
 | [0179-largest-number](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0179-largest-number/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0540-single-element-in-a-sorted-array/) | Medium |
@@ -104,6 +105,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0015-3sum/) | Medium |
+| [0164-maximum-gap](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0164-maximum-gap/) | Medium |
 | [0179-largest-number](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0179-largest-number/) | Medium |
 | [0389-find-the-difference](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0389-find-the-difference/) | Easy |
 ## Bit Manipulation
@@ -124,4 +126,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0128-longest-consecutive-sequence/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0164-maximum-gap/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0164-maximum-gap/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0164-maximum-gap/) | Medium |
 <!---LeetCode Topics End-->
