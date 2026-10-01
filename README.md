@@ -61,6 +61,7 @@
 | [0005-longest-palindromic-substring](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Hard/0010-regular-expression-matching/) | Hard |
 | [0020-valid-parentheses](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
+| [0058-length-of-last-word](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0058-length-of-last-word/) | Easy |
 | [0179-largest-number](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0179-largest-number/) | Medium |
 | [0389-find-the-difference](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0412-fizz-buzz/) | Easy |
