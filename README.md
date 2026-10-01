@@ -14,6 +14,7 @@
 | [0164-maximum-gap](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0164-maximum-gap/) | Medium |
 | [0179-largest-number](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
+| [0260-single-number-iii](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0260-single-number-iii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [1470-shuffle-the-array](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/1470-shuffle-the-array/) | Easy |
@@ -117,6 +118,7 @@
 | ------- | ------- |
 | [0136-single-number](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0137-single-number-ii/) | Medium |
+| [0260-single-number-iii](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0260-single-number-iii/) | Medium |
 | [0389-find-the-difference](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0389-find-the-difference/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
