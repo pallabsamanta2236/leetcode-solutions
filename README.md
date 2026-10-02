@@ -16,6 +16,7 @@
 | [0217-contains-duplicate](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
 | [0260-single-number-iii](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0260-single-number-iii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [1470-shuffle-the-array](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/1470-shuffle-the-array/) | Easy |
@@ -34,6 +35,7 @@
 | [0202-happy-number](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0389-find-the-difference/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 ## Matrix
@@ -96,6 +98,7 @@
 | [0015-3sum](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0015-3sum/) | Medium |
 | [0202-happy-number](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0202-happy-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +108,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -118,6 +122,7 @@
 | [0179-largest-number](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0389-find-the-difference/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
