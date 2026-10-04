@@ -54,6 +54,7 @@
 | [0009-palindrome-number](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0009-palindrome-number/) | Easy |
 | [0043-multiply-strings](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0043-multiply-strings/) | Medium |
 | [0066-plus-one](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0066-plus-one/) | Easy |
+| [0172-factorial-trailing-zeroes](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0202-happy-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0412-fizz-buzz/) | Easy |
 ## Recursion
