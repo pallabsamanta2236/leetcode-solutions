@@ -54,6 +54,7 @@
 | [0009-palindrome-number](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0009-palindrome-number/) | Easy |
 | [0043-multiply-strings](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0043-multiply-strings/) | Medium |
 | [0066-plus-one](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0066-plus-one/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0168-excel-sheet-column-title/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0202-happy-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0412-fizz-buzz/) | Easy |
@@ -70,6 +71,7 @@
 | [0020-valid-parentheses](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [0043-multiply-strings](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0058-length-of-last-word/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0168-excel-sheet-column-title/) | Easy |
 | [0179-largest-number](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0179-largest-number/) | Medium |
 | [0389-find-the-difference](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0412-fizz-buzz/) | Easy |
