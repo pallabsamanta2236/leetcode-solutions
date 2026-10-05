@@ -78,6 +78,7 @@
 | [0389-find-the-difference](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0412-fizz-buzz/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0856-score-of-parentheses/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,9 +172,11 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0856-score-of-parentheses/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0856-score-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
