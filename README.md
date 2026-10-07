@@ -58,6 +58,7 @@
 | [0171-excel-sheet-column-number](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0171-excel-sheet-column-number/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0202-happy-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0412-fizz-buzz/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -121,6 +122,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0367-valid-perfect-square](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0367-valid-perfect-square/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
