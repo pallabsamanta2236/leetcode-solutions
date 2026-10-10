@@ -82,6 +82,7 @@
 | [0678-valid-parenthesis-string](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/1021-remove-outermost-parentheses/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +180,7 @@
 | [0678-valid-parenthesis-string](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/1021-remove-outermost-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,4 +188,5 @@
 | [0678-valid-parenthesis-string](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
