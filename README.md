@@ -60,6 +60,7 @@
 | [0202-happy-number](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0202-happy-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0412-fizz-buzz/) | Easy |
+| [0507-perfect-number](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0507-perfect-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
