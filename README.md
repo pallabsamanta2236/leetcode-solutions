@@ -23,6 +23,7 @@
 | [1929-concatenation-of-array](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/1929-concatenation-of-array/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +150,7 @@
 | [0137-single-number-ii](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0260-single-number-iii/) | Medium |
 | [0389-find-the-difference](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0389-find-the-difference/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
