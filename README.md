@@ -21,6 +21,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [1470-shuffle-the-array](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/1929-concatenation-of-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/3644-maximum-k-to-sort-a-permutation/) | Medium |
@@ -129,6 +130,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0367-valid-perfect-square/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0540-single-element-in-a-sorted-array/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +145,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0389-find-the-difference/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
