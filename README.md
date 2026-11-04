@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0015-3sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
 | [0066-plus-one](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0066-plus-one/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0136-single-number/) | Easy |
@@ -92,6 +93,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Hard/0010-regular-expression-matching/) | Hard |
+| [0042-trapping-rain-water](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -115,6 +117,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0015-3sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
 | [0202-happy-number](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0202-happy-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -184,6 +187,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -204,4 +208,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
