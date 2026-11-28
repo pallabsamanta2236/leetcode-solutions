@@ -80,6 +80,7 @@
 | [0020-valid-parentheses](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [0043-multiply-strings](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0058-length-of-last-word/) | Easy |
+| [0125-valid-palindrome](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0171-excel-sheet-column-number/) | Easy |
 | [0179-largest-number](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0179-largest-number/) | Medium |
@@ -119,6 +120,7 @@
 | [0005-longest-palindromic-substring](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Medium/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
+| [0125-valid-palindrome](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
 | [0202-happy-number](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0202-happy-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pallabsamanta2236/leetcode-solutions/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
